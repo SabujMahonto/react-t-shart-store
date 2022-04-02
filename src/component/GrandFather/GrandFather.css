@@ -1,0 +1,9 @@
+.grandfather {
+  border: 3px solid tomato;
+}
+.grandfa-child {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  margin: 20px;
+}

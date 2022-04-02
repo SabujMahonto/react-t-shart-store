@@ -1,0 +1,7 @@
+.tshart_container img {
+  height: 300px;
+  width: 300px;
+}
+.tshart_container {
+  border: 1px;
+}
